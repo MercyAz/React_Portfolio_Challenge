@@ -85,7 +85,7 @@ height: 800px;
 width:100% ;
 opacity: 0.4;
 margin-bottom: 25px;
-/* background-image: url('/portfolio/src/images/seaside.jpg'); */
+background-image: url('./seaside.jpg');
 background-size: cover;
 background-repeat: no-repeat;
 background-position: center;

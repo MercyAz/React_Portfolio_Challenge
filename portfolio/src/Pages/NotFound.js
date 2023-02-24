@@ -1,12 +1,15 @@
-function NotFound () {
+function NotFound (){
 
-    return (
-        <p>
+return (
 
-            Page not found...
-        </p>
+    <>
+    <p>
 
-    )
+    Page not found...
+    </p>
+    </>
+)
+
 }
 
 export default NotFound;
