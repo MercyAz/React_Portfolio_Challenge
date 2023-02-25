@@ -1,3 +1,5 @@
+import profile from './Images/profile.jpg';
+
 function About() {
 
     return (
@@ -5,7 +7,7 @@ function About() {
    
    <section className="About" id="About">
   <img
-    src="./images/AlozieMercy-82.jpg"
+    src={profile}
     className="AboutImage"
     alt="MercyPhoto"
     height="400px"
@@ -19,7 +21,6 @@ function About() {
       development.
     </p>
     <p>
-      {" "}
       I am a jovial, fun loving person. Alot of people whom I have worked
       withdescribe me as a solution oriented person and I agree because I am
       always looking for solutions to problems. When I am not working, I love

@@ -1,4 +1,8 @@
-
+import img1 from './Images/screenshot.png';
+import img2 from './Images/homepage.png';
+import img3 from './Images/placeholder.jpg';
+import img4 from './Images/placeholder2.jpg';
+import img5 from './Images/placeholder3.jpg';
 
 function Project() {
 
@@ -18,7 +22,7 @@ function Project() {
             <div className="card" style={{ width: "18rem" }}>
               <a href="https://o1ujok3.github.io/Recipedia/">
                 <img
-                  className="card-img-top" src="./screenshot.png"
+                  className="card-img-top" src={img1}
                   alt="Recipedia"
                 />
               </a>
@@ -44,7 +48,7 @@ function Project() {
               <a href="https://startling-zuccutto-a47cd8.netlify.app/">
                 <img
                   className="card-img-top"
-                  src="./"
+                  src={img2}
                   alt="RehackHome"
                 />
               </a>
@@ -64,7 +68,7 @@ function Project() {
               <a href="https://o1ujok3.github.io/Recipedia/">
                 <img
                   className="card-img-top"
-                  src="./images/02-portfolio-3.jpg"
+                  src={img3}
                   alt="Portfolio1"
                 />
               </a>
@@ -89,7 +93,7 @@ function Project() {
               <a href="https://o1ujok3.github.io/Recipedia/">
                 <img
                   className="card-img-top"
-                  src="./images/02-portfolio-2.jpg"
+                  src={img3}
                   alt="Portfolio2"
                 />
               </a>
@@ -112,7 +116,7 @@ function Project() {
               <a href="https://o1ujok3.github.io/Recipedia/">
                 <img
                   className="card-img-top"
-                  src="./images/02-portfolio-1.jpg"
+                  src={img4}
                   alt="Portfolio1"
                 />
               </a>
@@ -135,7 +139,7 @@ function Project() {
               <a href="https://o1ujok3.github.io/Recipedia/">
                 <img
                   className="card-img-top"
-                  src="./images/02-portfolio-3.jpg"
+                  src={img5}
                   alt="Portfolio1"
                 />
               </a>
