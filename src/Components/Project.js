@@ -1,5 +1,5 @@
 import img1 from './Images/screenshot.png';
-import img2 from './Images/homepage.png';
+import img2 from './Images/rehack.png';
 import img3 from './Images/placeholder.jpg';
 import img4 from './Images/placeholder2.jpg';
 import img5 from './Images/placeholder3.jpg';
