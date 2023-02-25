@@ -10,9 +10,9 @@ The portfolio has my name, links to my GitHub profile, LinkedIn page and Email a
 While doing this project, I also utilized grid and flex box in the styling which made the website more responsive. There are two deployed projects and since the website is still undergoing development, more projects will be added as soon as they get completed.
 
 
-[Link to the deployed project]('https://mercyaz.github.io/Bootstrap-Portfolio//')
+[Link to the deployed project](https://mercyualozie.netlify.app)
 
-[Link to the project GitHub Repository](https://github.com/MercyAz/React_Portfolio_Challenge/tree/main/portfolio)
+[Link to the project GitHub Repository](https://github.com/MercyAz/React_Portfolio_Challenge)
 
 
 
